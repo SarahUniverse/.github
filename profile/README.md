@@ -1,4 +1,4 @@
-# SarahUniverse 🌟
+# Sarah Universe 👾👩🏼‍💻
 
 ## Overview
 SarahUniverse is a GitHub organization dedicated to showcasing personal projects, exploring innovative technologies and creative coding.
@@ -16,3 +16,5 @@ To create meaningful, well-crafted software solutions that solve real-world prob
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
+![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
+
