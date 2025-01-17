@@ -30,5 +30,3 @@ TERMS:
 - This code is for viewing purposes only
 - No permission is granted to use, copy, modify, merge, publish, distribute, sublicense, or sell copies of this software
 - Written permission required for any use
-- Violations will result in legal action
-
