@@ -10,7 +10,7 @@ To create meaningful, well-crafted software solutions that solve real-world prob
 
 ## - 📱 Mobile Development
 
-## Languages:
+## 🔤 Languages
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
 
