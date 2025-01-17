@@ -6,15 +6,14 @@ Sarah Universe is a GitHub organization dedicated to showcasing personal project
 ## 🚀 Mission
 To create meaningful, well-crafted software solutions that solve real-world problems and push the boundaries of technology.
 
-## 📂 Repository Categories:
 
-## - 📱 Mobile Development
+## 📱 Mobile Development
 
-## 🔤 Languages
+### 🔤Languages:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
 
-## 🧩 Frameworks
+### 🧩Frameworks:
 ![UIKit](https://img.shields.io/badge/-UIKit-black?style=flat-square&logo=apple)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-black?style=flat-square&logo=swift)
 ![Core_Data](https://img.shields.io/badge/-Core_Data-black?style=flat-square&logo=apple)
@@ -24,7 +23,7 @@ To create meaningful, well-crafted software solutions that solve real-world prob
 ![MapKit](https://img.shields.io/badge/-MapKit-black?style=flat-square&logo=apple)
 ![Combine](https://img.shields.io/badge/-Combine-black?style=flat-square&logo=apple)
 
-## 🛠 Tools
+### 🛠Tools:
 ![Xcode](https://img.shields.io/badge/-Xcode-black?style=flat-square&logo=xcode)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![CocoaPods](https://img.shields.io/badge/-CocoaPods-black?style=flat-square&logo=cocoapods)
@@ -33,13 +32,22 @@ To create meaningful, well-crafted software solutions that solve real-world prob
 ![TestFlight](https://img.shields.io/badge/-TestFlight-black?style=flat-square&logo=apple)
 ![App Store Connect](https://img.shields.io/badge/-App_Store_Connect-black?style=flat-square&logo=apple)
 
-## - 💻 Back End Development
-## Languages
+## 💻 Back End Development
 
-## - 🧩 Utility Tools
+### 🔤 Languages:
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
+![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp)
+
+### 🧩Frameworks:
+![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
+
+### 🛠Tools:
+![Visual_Studio](https://img.shields.io/badge/-Visual_Studio-black?style=flat-square&logo=visualstudio)
+
+## 🛠 Utility Tools
 - To be added
   
-## - 🤖 AI & Machine Learning
+## 🤖 AI & Machine Learning
 - To be added
 
 ## 📫 Contact
