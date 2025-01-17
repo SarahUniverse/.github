@@ -1,4 +1,4 @@
-# Sarah Universe 👾👩🏼‍💻👨🏼‍💻
+# Sarah Universe 👾👩🏼‍💻
 
 ## Overview
 Sarah Universe is a GitHub organization dedicated to showcasing personal projects, exploring innovative technologies and creative coding.
