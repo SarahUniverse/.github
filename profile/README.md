@@ -27,7 +27,6 @@ To create meaningful, well-crafted software solutions that solve real-world prob
 ### 🛠Tools:
 ![Xcode](https://img.shields.io/badge/-Xcode-black?style=flat-square&logo=xcode)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![CocoaPods](https://img.shields.io/badge/-CocoaPods-black?style=flat-square&logo=cocoapods)
 ![Swift Package Manager](https://img.shields.io/badge/-Swift_Package_Manager-black?style=flat-square&logo=apple)
 ![SwiftLint](https://img.shields.io/badge/-SwiftLint-black?style=flat-square&logo=swift)
 ![TestFlight](https://img.shields.io/badge/-TestFlight-black?style=flat-square&logo=apple)
