@@ -1,7 +1,7 @@
 # Sarah Universe 👾👩🏼‍💻
 
 ## Overview
-SarahUniverse is a GitHub organization dedicated to showcasing personal projects, exploring innovative technologies and creative coding.
+Sarah Universe is a GitHub organization dedicated to showcasing personal projects, exploring innovative technologies and creative coding.
 
 ## 🚀 Mission
 To create meaningful, well-crafted software solutions that solve real-world problems and push the boundaries of technology.
@@ -17,4 +17,18 @@ To create meaningful, well-crafted software solutions that solve real-world prob
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
+
+## 📫 Contact
+- Email: sarahireneclark@gmail.com
+
+## License
+PROPRIETARY SOFTWARE LICENSE
+
+Copyright (c) 2025 SarahUniverse
+
+TERMS:
+- This code is for viewing purposes only
+- No permission is granted to use, copy, modify, merge, publish, distribute, sublicense, or sell copies of this software
+- Written permission required for any use
+- Violations will result in legal action
 
