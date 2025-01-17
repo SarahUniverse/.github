@@ -22,6 +22,7 @@ To create meaningful, well-crafted software solutions that solve real-world prob
 ![Concurrency](https://img.shields.io/badge/-Concurrency-black?style=flat-square&logo=swift)
 ![MapKit](https://img.shields.io/badge/-MapKit-black?style=flat-square&logo=apple)
 ![Combine](https://img.shields.io/badge/-Combine-black?style=flat-square&logo=apple)
+![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
 
 ### 🛠Tools:
 ![Xcode](https://img.shields.io/badge/-Xcode-black?style=flat-square&logo=xcode)
