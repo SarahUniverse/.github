@@ -50,8 +50,7 @@ To create meaningful, well-crafted software solutions that solve real-world prob
 ## 🤖 AI & Machine Learning
 - To be added
 
-## 📫 Contact
-- Email: sarahireneclark@gmail.com
+
 
 ## License
 Proprietary Software
