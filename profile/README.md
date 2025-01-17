@@ -44,13 +44,6 @@ To create meaningful, well-crafted software solutions that solve real-world prob
 ### 🛠Tools:
 ![Visual_Studio](https://img.shields.io/badge/-Visual_Studio-black?style=flat-square&logo=visualstudio)
 
-## 🛠 Utility Tools
-- To be added
-  
-## 🤖 AI & Machine Learning
-- To be added
-
-
 
 ## License
 Proprietary Software
