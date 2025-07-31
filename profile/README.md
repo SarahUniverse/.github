@@ -17,6 +17,7 @@ To create meaningful, well-crafted software solutions that solve real-world prob
 ![UIKit](https://img.shields.io/badge/-UIKit-black?style=flat-square&logo=apple)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-black?style=flat-square&logo=swift)
 ![Core_Data](https://img.shields.io/badge/-Core_Data-black?style=flat-square&logo=apple)
+![Swift_Data](https://img.shields.io/badge/-Swift_Data-black?style=flat-square&logo=apple)
 ![XCTest](https://img.shields.io/badge/-XCTest-black?style=flat-square&logo=apple)
 ![Swift_Testing](https://img.shields.io/badge/-Swift_Testing-black?style=flat-square&logo=swift)
 ![Concurrency](https://img.shields.io/badge/-Concurrency-black?style=flat-square&logo=swift)
