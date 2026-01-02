@@ -36,17 +36,6 @@ To create meaningful, well-crafted software solutions that solve real-world prob
 ![TestFlight](https://img.shields.io/badge/-TestFlight-black?style=flat-square&logo=apple)
 ![App Store Connect](https://img.shields.io/badge/-App_Store_Connect-black?style=flat-square&logo=apple)
 
-## 📱 Android Development
-
-### 🔤 Languages:
-To be added
-
-### 🧩Frameworks:
-To be added
-
-### 🛠Tools:
-To be added
-
 ## 💻 Back End Development
 
 ### 🔤 Languages:
